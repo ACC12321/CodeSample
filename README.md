@@ -1,9 +1,6 @@
-# CodeSample
-
-These three files were part of a Data Structures and Algorithms class that had us create and implement a hashtable. 
-The main file is Hashtable.h. 
-
-# This implementation was done in Hashtable.h and I implemented my hashtable by using an array of pointers to pairs. 
+# The main file is Hashtable.h. 
+This project was part of my  Data Structures and Algorithms class that had us create and implement a hashtable. 
+This implementation was done in Hashtable.h and I implemented my hashtable by using an array of pointers to pairs. 
 
 # Hashtable.h: 
 The code is done in a C++ template that allows users to input their own data type for the value of the pairs. 
